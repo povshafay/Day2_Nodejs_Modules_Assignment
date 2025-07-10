@@ -1,0 +1,6 @@
+What are modules in Node.js?
+Modules are reusable pieces of code that can be exported and imported between files using require() and module.exports.
+
+Difference between core modules and custom modules:
+- Core modules are built-in, like fs, http, path.
+- Custom modules are user-defined JavaScript files that export functions or objects.
